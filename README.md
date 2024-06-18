@@ -58,6 +58,7 @@
 
 ## **2.2 프로젝트 구조**
 
+![구조도](https://github.com/woody6624/ios_final/assets/103871252/15ee1a34-bf98-46de-968f-dd691180cbb9)
 
 
 
