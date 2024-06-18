@@ -57,21 +57,21 @@
 
 
 ## **2.2 프로젝트 구조**
-<div style="display: inline-block; text-align: center;">
-    <img src="https://github.com/woody6624/ios_final/assets/103871252/ecbaca28-9d73-4c7e-8c95-8ce19d354ea2" width="200" height="300" />
-    <p>로그인 화면</p>
-</div>
-<div style="display: inline-block; text-align: center;">
-    <img src="https://github.com/woody6624/ios_final/assets/103871252/ecbaca28-9d73-4c7e-8c95-8ce19d354ea2" width="200" height="300" />
-    <p>로그인 화면</p>
-</div>
+
 
 
 
 
 
 ## 2-3.결과물
-
+<div style="display: inline-block; text-align: center;">
+    <img src="https://github.com/woody6624/ios_final/assets/103871252/ecbaca28-9d73-4c7e-8c95-8ce19d354ea2" width="200" height="300" />
+   ![회원가입](https://github.com/woody6624/ios_final/assets/103871252/f6b47f39-140a-4c24-bf37-4fceca963e96)
+ <p>로그인 화면</p>
+</div>
+<div style="display: inline-block; text-align: center;">
+    <p>홈화면</p>
+</div>
 
 
 
