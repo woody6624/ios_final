@@ -117,3 +117,7 @@
 
 ## CI/CD
   - ![Jenkins](https://img.shields.io/badge/CI%2FCD-Jenkins-orange)
+
+## 2-6.발표 영상
+
+https://www.youtube.com/watch?v=QwVriOyZSfE
