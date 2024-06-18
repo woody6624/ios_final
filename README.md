@@ -64,17 +64,14 @@
 
 
 ## 2-3.결과물
-<div style="display: inline-block; text-align: center;">
-    <img src="https://github.com/woody6624/ios_final/assets/103871252/ecbaca28-9d73-4c7e-8c95-8ce19d354ea2" width="200" height="300" />
-    <p>로그인 화면</p>
-</div>
-<div style="display: inline-block; text-align: center;">
-    <img src="https://github.com/woody6624/ios_final/assets/103871252/f6b47f39-140a-4c24-bf37-4fceca963e96" width="200" height="300" />
-    <p>회원가입</p>
-</div>
 
+![로그인 회원가입](https://github.com/woody6624/ios_final/assets/103871252/0e86b483-b996-4288-a8a0-6755f691bb49)
+<p></p>
+![홈](https://github.com/woody6624/ios_final/assets/103871252/962eb421-ab01-47d9-b4ea-640429f71ec3)
+<p></p>
 
-
+![명화와 여행지](https://github.com/woody6624/ios_final/assets/103871252/5e69d4a5-6861-4997-9f64-6a98bd82777f)
+<p></p>
 
 
 
