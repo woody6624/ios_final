@@ -57,8 +57,9 @@
 
 
 ## **2.2 프로젝트 구조**
-<img src="https://github.com/woody6624/ios_final/assets/103871252/ecbaca28-9d73-4c7e-8c95-8ce19d354ea2" width="300" />
+<img src="https://github.com/woody6624/ios_final/assets/103871252/ecbaca28-9d73-4c7e-8c95-8ce19d354ea2" width="200" height="300" />
 <p>로그인 화면</p>
+
 
 
 
