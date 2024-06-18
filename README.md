@@ -7,7 +7,7 @@
 # 백엔드 레포지터리: https://github.com/woody6624/ios_final_backend
 
 # API 명세서
-![API-명세서](https://github.com/woody6624/ios_final/assets/103871252/29283778-2804-4359-8090-aa1b6f83a5a6)
+![API-명세서](https://github.com/woody6624/ios_final/assets/103871252/73f44241-d56b-4f79-aa14-b7464af90b0b)
 
 
 
