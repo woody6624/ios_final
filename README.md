@@ -89,11 +89,30 @@
 
 ## 2-5.사용 기술 및 스택
 
-개발 환경: Window,Mac Os
-개발 도구: XCODE, IntelliJ IDEA
-프레임워크:Spring boot,flask
-개발 언어: Java,Swift
-서버: AWS Ec2(백엔드 서버)
-이미지: AWS S3
-데이터베이스: AWS RDS - MySQL
-CI/CD: Jenkins
+## 개발 환경
+  - ![Windows](https://img.shields.io/badge/OS-Windows-blue)
+  - ![Mac OS](https://img.shields.io/badge/OS-Mac%20OS-brightgreen)
+
+## 개발 도구
+  - ![XCODE](https://img.shields.io/badge/IDE-XCODE-blue)
+  - ![IntelliJ IDEA](https://img.shields.io/badge/IDE-IntelliJ%20IDEA-brightgreen)
+
+## 프레임워크
+  - ![Spring Boot](https://img.shields.io/badge/Framework-Spring%20Boot-brightgreen)
+
+## 개발 언어
+  - ![Java](https://img.shields.io/badge/Language-Java-orange)
+  - ![Swift](https://img.shields.io/badge/Language-Swift-orange)
+
+## 서버
+  - ![AWS EC2](https://img.shields.io/badge/Server-AWS%20EC2-important)
+
+## 이미지
+  - ![AWS S3](https://img.shields.io/badge/Storage-AWS%20S3-informational)
+
+## 데이터베이스
+  - ![AWS RDS](https://img.shields.io/badge/Database-AWS%20RDS-orange)
+  - ![MySQL](https://img.shields.io/badge/Database-MySQL-blue)
+
+## CI/CD
+  - ![Jenkins](https://img.shields.io/badge/CI%2FCD-Jenkins-orange)
