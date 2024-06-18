@@ -67,10 +67,12 @@
 
 ![로그인 회원가입](https://github.com/woody6624/ios_final/assets/103871252/0e86b483-b996-4288-a8a0-6755f691bb49)
 <p></p>
+
 ![홈](https://github.com/woody6624/ios_final/assets/103871252/962eb421-ab01-47d9-b4ea-640429f71ec3)
 <p></p>
 
-![명화와 여행지](https://github.com/woody6624/ios_final/assets/103871252/5e69d4a5-6861-4997-9f64-6a98bd82777f)
+![명화와 여행지](https://github.com/woody6624/ios_final/assets/103871252/36efcab2-7bcd-4280-be3b-55fb458a208a)
+
 <p></p>
 
 
